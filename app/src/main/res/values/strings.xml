@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Searchable RecyclerView</string>
+    <string name="action_search">Search</string>
+</resources>
